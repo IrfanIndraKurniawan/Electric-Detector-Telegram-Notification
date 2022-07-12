@@ -10,11 +10,14 @@ WAJIB membaca file LICENSE, mendownload = Setuju.
 # Credit
 - Irfan Indra Kurniawan, ST. / www.fanselectronics.com
 
-# Setup Tutorial
-- Comming Soon
-
 # Thanks To
 - Allah Subhanahu wa Ta'ala
 - Arduino Team / arduino.cc
 - Team ESP8266 Board for Arduino
 
+# Design Schematic & Layout
+![alt text](https://github.com/IrfanIndraKurniawan/Electric-Detector-Telegram-Notification/blob/main/Layout.png?raw=true)
+![alt text](https://github.com/IrfanIndraKurniawan/Electric-Detector-Telegram-Notification/blob/main/Schematic.png?raw=true)
+
+# Setup Tutorial
+- Comming Soon
