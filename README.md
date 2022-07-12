@@ -5,7 +5,7 @@ Dibuat untuk memberikan informasi berupa notifikasi Telegram Chat apabila mendet
 WAJIB membaca file LICENSE, mendownload = Setuju.
 
 # Support Our Server
-- saweria.co/fanselectronics
+- https://saweria.co/fanselectronics
 
 # Credit
 - Irfan Indra Kurniawan, ST. / www.fanselectronics.com
@@ -14,10 +14,12 @@ WAJIB membaca file LICENSE, mendownload = Setuju.
 - Allah Subhanahu wa Ta'ala
 - Arduino Team / arduino.cc
 - Team ESP8266 Board for Arduino
+- ESP8266 Flasher - https://github.com/nodemcu/nodemcu-flasher
 
 # Design Schematic & Layout
-![alt text](https://github.com/IrfanIndraKurniawan/Electric-Detector-Telegram-Notification/blob/main/Layout.png?raw=true)
-![alt text](https://github.com/IrfanIndraKurniawan/Electric-Detector-Telegram-Notification/blob/main/Schematic.png?raw=true)
+![alt Schematic](https://github.com/IrfanIndraKurniawan/Electric-Detector-Telegram-Notification/blob/main/Schematic.png?raw=true)
+![alt Layout PCB](https://github.com/IrfanIndraKurniawan/Electric-Detector-Telegram-Notification/blob/main/Layout.png?raw=true)
+
 
 # Setup Tutorial
 - Comming Soon
