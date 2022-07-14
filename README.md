@@ -22,4 +22,6 @@ WAJIB membaca file LICENSE, mendownload = Setuju.
 
 
 # Setup Tutorial
-- Comming Soon
+
+[![IMAGE Video Tutorial](https://img.youtube.com/vi/-jVRawFVISA/0.jpg)](https://www.youtube.com/watch?v=-jVRawFVISA)
+
